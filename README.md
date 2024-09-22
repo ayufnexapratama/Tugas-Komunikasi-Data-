@@ -1,4 +1,4 @@
-# Tugas-Komunikasi-Data-
+# Tugas-Komunikasi-Data-1
 Topologi Jaringan Komputer 
 Adalah metode atau cara untuk menghubungkan rute koneksi dan node dalam satu jaringan. Untuk diketahui, node adalah perangkat keras untuk menerima, meneruskan, dan menyebarkan data atau bisa juga disebut komputer.
 •Macam-macam Topologi Jaringan
